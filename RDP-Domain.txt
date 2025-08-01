@@ -25,3 +25,7 @@ BCVD07S02001.UTIAMC.COM
 BTVD07S02001.UTIAMC.COM
 ACV-08.UTIAMC.COM
 BKC-NAS-SRV.UTIAMC.COM
+
+
+
+$cn = New-Object System.Data.SqlClient.SqlConnection "Server=SERVER-MCVD41502027.utiamc.com,21433;Database=ICRAClient;User Id=ICRAClient;Password=Icr@client@341;Pooling=False;Connect Timeout=10000;"; $cn.Open(); $cmd = $cn.CreateCommand(); $cmd.CommandText = "SELECT name FROM sys.tables"; $r = $cmd.ExecuteReader(); while ($r.Read()) { $r[0] }; $cn.Close()
