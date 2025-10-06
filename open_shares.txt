@@ -1,0 +1,135 @@
+Open-
+
+10.155.1.0-255
+\\10.155.1.29\Nutanix_software
+\\10.155.1.36\Customer_service
+\\10.155.1.36\TDS_Certificates
+\\10.155.1.36\win 8.1_KB's_BMC_C
+\\10.155.1.37\Planning
+\\10.155.1.37\tpd
+\\10.155.1.86\ftpupload
+\\10.155.1.86\Others-NB
+\\10.155.1.86\SunBirla1
+\\10.155.1.86\SunBirla12
+\\10.155.1.86\Upload
+\\10.155.1.86\WebPolCon
+\\10.155.1.150\DB_Backup
+\\10.155.1.150\DBBackup
+\\10.155.1.150\Saquib
+\\10.155.1.150\SQl_2022_setup
+\\10.155.1.153\DB_Backup
+\\10.155.1.153\DBBackup
+\\10.155.1.153\Saquib
+\\10.155.1.153\SQl_2022_setup
+\\10.155.1.158\sql setup2008
+\\10.155.1.175\Temp
+\\10.155.1.191\Home
+\\10.155.1.191\Public
+\\10.155.1.225\c_equitysrcipt
+\\10.155.1.225\treesizefree
+
+10.155.6.0-255
+\\10.155.6.16\onlineappform
+\\10.155.6.16\sql
+\\10.155.6.19\g
+\\10.155.6.59\autopas
+\\10.155.6.59\billfiles
+\\10.155.6.59\data3
+\\10.155.6.59\lapsefiles
+\\10.155.6.59\PolicySplittedLetters
+\\10.155.6.59\RenewalPremiumNotice
+\\10.155.6.59\temp
+\\10.155.6.71\UpdateServicesPackages
+\\10.155.6.71\WsusContent
+\\10.155.6.81\Account1
+\\10.155.6.81\Account2
+\\10.155.6.81\Account3
+\\10.155.6.81\Claims
+\\10.155.6.81\Claims Scan
+\\10.155.6.81\Common
+\\10.155.6.81\Group Opration
+\\10.155.6.81\inv1
+\\10.155.6.81\itssg
+\\10.155.6.81\nb
+\\10.155.6.81\Planning
+\\10.155.6.81\Polard1
+\\10.155.6.81\Polard2
+\\10.155.6.81\Polard3
+\\10.155.6.81\sap
+\\10.155.6.81\tpd
+\\10.155.6.81\Underwriting
+\\10.155.6.184\Software
+\\10.155.6.216\GenericEncryption_Client
+\\10.155.6.216\GenericEncryption_Client_Windows
+\\10.155.6.225\e
+\\10.155.6.225\ftp server
+
+10.160.118.1-255
+\\10.160.118.31\d
+\\10.160.118.75\d
+\\10.160.118.110\ssven34135
+\\10.160.118.182\c
+\\10.160.118.182\d
+\\10.160.118.229\d
+\\10.160.118.229\Users
+\\10.160.118.254\d
+
+10.160.0.0-16
+\\10.160.1.32\UpdateServicesPackages
+\\10.160.1.32\WsusContent
+\\10.160.1.44\machb42
+\\10.160.1.44\outbound
+\\10.160.1.44\Quantis_NEW
+\\10.160.1.124\abfsibfs01_r
+\\10.160.1.151\CitiSftp
+\\10.160.1.151\Inbound
+\\10.160.1.151\Outbound
+\\10.160.5.53\CEO Office Scanner
+\\10.160.5.53\CFO Scan
+\\10.160.5.53\Compliance Scan
+\\10.160.5.53\COO Scanner
+\\10.160.5.53\HR  Scan
+\\10.160.5.53\Real Est
+\\10.160.5.80\BSLAMC Basic Software
+\\10.160.5.223\Atul
+\\10.160.6.151\d
+\\10.160.7.251\d
+\\10.160.9.238\Legal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
